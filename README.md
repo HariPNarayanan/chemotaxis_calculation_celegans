@@ -22,7 +22,6 @@ chemotaxis_calculation_celegans/
 ├── example_data/
 │   ├── T_example.csv
 │   └── S_example.csv
-├── .gitignore
 └── README.md
 ```
 
